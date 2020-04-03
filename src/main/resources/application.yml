@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3316/csv_flyway
+    username: vsuser
+    password: V!t@1s0ft123$$$
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
